@@ -10,7 +10,7 @@ int main (){
     cin>>NuevoDato;
     if (NuevoDato == 1){
         int Numero;
-        cout<<"\nDigite el numero que quiere asignar";
+        cout<<"\nDigite el numero que quiere asignar: ";
         cin>>Numero;
         } else if (NuevoDato == 2){
                           
