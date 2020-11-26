@@ -1,0 +1,4 @@
+Nombre del preso: Alphonse
+Tipo de delito: asesino
+Tipo de regimen: 21
+Tiempo de condena: 234

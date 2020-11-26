@@ -1,4 +1,1 @@
-alphonse
-asesino
-2
-234 dias
+nombre del preso: no ceTipo de delito: 222Tipo de regimen: 2Tiempo de condena: 234

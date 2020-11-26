@@ -1,0 +1,4 @@
+nombre del preso: nicolas
+Tipo de delito: nada
+Tipo de regimen: 2
+Tiempo de condena: 234

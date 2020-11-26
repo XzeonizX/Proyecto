@@ -1,0 +1,1 @@
+Nombre         delito          regimen          condena

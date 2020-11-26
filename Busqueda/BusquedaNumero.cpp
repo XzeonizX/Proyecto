@@ -18,7 +18,8 @@ void lectura(){
  
  cout<<"Ingrese el numero del preso seguido de .txt: ";
  getline(cin,nombreTexto);
- 
+ nombreTexto += ".txt";
+
  archivo.open(nombreTexto.c_str(),ios::in);
  
  if(archivo.fail()){

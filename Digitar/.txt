@@ -1,0 +1,4 @@
+Nombre del preso: alphn
+Tipo de delito: as
+Tipo de regimen: as
+Tiempo de condena: as
